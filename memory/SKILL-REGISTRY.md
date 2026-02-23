@@ -1,0 +1,3 @@
+# Skill Registry
+This is the SKILL REGISTRY documentation.
+...
